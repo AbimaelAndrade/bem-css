@@ -1,0 +1,23 @@
+{
+  "name": "bem-css",
+  "version": "1.0.0",
+  "main": "index.html",
+  "keywords": [
+    "aceleradev",
+    "codenation",
+    "react",
+    "html",
+    "css",
+    "bem",
+    "atomic designer"
+  ],
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": "https://github.com/AbimaelAndrade/bem-css.git",
+  "author": "abimaelandrade <abimaelc.andrade@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
